@@ -17,4 +17,4 @@ Features:
   Generating Bills
   Viewing staff details and contact info
   Viewing all the details of each room
-  Realtime calendar like view of bookings
+  Realtime calendar like view of bookings.
